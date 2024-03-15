@@ -1,3 +1,3 @@
 <%@page import="java.util.*"%>
 
-<h1>Welcome to jenkins and date and time::<%=new Date() %></h1>
+<h1 style="color:red">Welcome to jenkins and date and time::<%=new Date() %></h1>
